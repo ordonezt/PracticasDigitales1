@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "/home/usr0/Facultad/Digitales1/MyAnd/TestMyAnd.xst" -ofn "/home/usr0/Facultad/Digitales1/MyAnd/TestMyAnd.syr" 
+xst -intstyle ise -ifn "/home/usr0/Facultad/Digitales1/MyAnd/TestMyAnd.xst" -ofn "/home/usr0/Facultad/Digitales1/MyAnd/TestMyAnd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa3s500e-cpg132-4 TestMyAnd.ngc TestMyAnd.ngd  
+map -intstyle ise -p xa3s500e-cpg132-4 -cm area -ir off -pr off -c 100 -o TestMyAnd_map.ncd TestMyAnd.ngd TestMyAnd.pcf 
+par -w -intstyle ise -ol high -t 1 TestMyAnd_map.ncd TestMyAnd.ncd TestMyAnd.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TestMyAnd.twx TestMyAnd.ncd -o TestMyAnd.twr TestMyAnd.pcf 

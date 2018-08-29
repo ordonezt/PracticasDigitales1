@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/usr0/Facultad/Digitales1/MyAnd/TestMyAnd_isim_beh.exe" -prj "/home/usr0/Facultad/Digitales1/MyAnd/TestMyAnd_beh.prj" "work.TestMyAnd" 

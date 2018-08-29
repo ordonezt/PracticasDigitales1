@@ -1,0 +1,2 @@
+vhdl work "TestMyAnd.vhd"
+vhdl work "MyAnd_tb2.vhd"

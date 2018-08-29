@@ -1,0 +1,5 @@
+set -tmpdir "/home/usr0/Facultad/Digitales1/MyAnd/xst/projnav.tmp"
+set -xsthdpdir "/home/usr0/Facultad/Digitales1/MyAnd/xst"
+elaborate
+-ifn MyAnd_tb2.prj
+-ifmt mixed

@@ -1,0 +1,13 @@
+V3 7
+FL /home/usr0/Facultad/Digitales1/MyAnd/MyAnd_tb2.vhd 2018/07/05.10:32:32 P.20131013
+EN work/MyAnd_tb2 0 FL /home/usr0/Facultad/Digitales1/MyAnd/MyAnd_tb2.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/MyAnd_tb2/Behavioral 0 \
+      FL /home/usr0/Facultad/Digitales1/MyAnd/MyAnd_tb2.vhd EN work/MyAnd_tb2 0 \
+      CP TestMyAnd
+FL /home/usr0/Facultad/Digitales1/MyAnd/TestMyAnd.vhd 2018/07/05.09:39:05 P.20131013
+EN work/TestMyAnd 1530797992 \
+      FL /home/usr0/Facultad/Digitales1/MyAnd/TestMyAnd.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/TestMyAnd/Behavioral 1530797993 \
+      FL /home/usr0/Facultad/Digitales1/MyAnd/TestMyAnd.vhd EN work/TestMyAnd 1530797992

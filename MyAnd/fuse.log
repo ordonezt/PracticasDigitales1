@@ -1,0 +1,15 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /home/usr0/Facultad/Digitales1/MyAnd/TestMyAnd_isim_beh.exe -prj /home/usr0/Facultad/Digitales1/MyAnd/TestMyAnd_beh.prj work.TestMyAnd 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/usr0/Facultad/Digitales1/MyAnd/TestMyAnd.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 95800 KB
+Fuse CPU Usage: 1240 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity testmyand
+Time Resolution for simulation is 1ps.
+ERROR:Simulator:861 - Failed to link the design
