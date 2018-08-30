@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -o "/home/usr0/Facultad/Digitales1/MyAnd/TestMyAnd_isim_beh.exe" -prj "/home/usr0/Facultad/Digitales1/MyAnd/TestMyAnd_beh.prj" "work.TestMyAnd" 
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/ProyectosIse/MyAnd/myAnd_tb_isim_beh.exe" -prj "/home/ise/ProyectosIse/MyAnd/myAnd_tb_beh.prj" "work.myAnd_tb" 
